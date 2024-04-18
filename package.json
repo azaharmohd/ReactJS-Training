@@ -1,0 +1,24 @@
+{
+  "name": "reactjs-training",
+  "version": "1.0.0",
+  "description": "ReactJS training by madhusudhan ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azaharmohd/ReactJS-Training.git"
+  },
+  "author": "Azaharuddin",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
